@@ -10,3 +10,5 @@ This is a change
 
 This has changed too 
 THere will be confilcts
+This is a change
+Now Im accepting it
