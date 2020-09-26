@@ -4,4 +4,3 @@ Testing
 This is more text to test changes
 This is a change
 
-## This is a new edit
