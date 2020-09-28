@@ -12,7 +12,16 @@ This has changed too
 THere will be confilcts
 This is a change
 Now Im accepting it
-## More additions 2
+## More additions 3
+This is more text to test changes
+This is a change
+
+This has changed too 
+THere will be confilcts
+This is a change
+Now Im accepting it
+
+## More additions 4
 This is more text to test changes
 This is a change
 
